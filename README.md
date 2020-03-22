@@ -1,3 +1,5 @@
+<img src="./Gatsby.jpg" alt="Gatsby Starter" />
+
 ## About
 
 The project bootstrapped with [Create React App](https://www.gatsbyjs.org).
